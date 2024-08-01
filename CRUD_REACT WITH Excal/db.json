@@ -1,0 +1,32 @@
+{
+  "Employe": [
+    {
+      "id": "",
+      "name": "JAIMINKUMAR BHARATKUMAR PANCHAL",
+      "email": "jaiminpanchal229@gmail.com",
+      "phone": "08200092839",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "JAIMINKUMAR BHARATKUMAR PANCHAL",
+      "email": "jaiminpanchal229@gmail.com",
+      "phone": "08200092839",
+      "isActive": true
+    },
+    {
+      "id": "",
+      "name": "JAIMINKUMAR BHARATKUMAR PANCHAL",
+      "email": "jaiminpanchal229@gmail.com",
+      "phone": "08200092839",
+      "isActive": true
+    },
+    {
+      "id": "",
+      "name": "JAIMINKUMAR BHARATKUMAR PANCHAL",
+      "email": "jaiminpanchal229@gmail.com",
+      "phone": "08200092839",
+      "isActive": true
+    }
+  ]
+}

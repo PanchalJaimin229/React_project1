@@ -1,0 +1,24 @@
+{
+  "Employe": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "phone": "99000"
+    },
+    {
+      "id": 2,
+      "name": "json-server33",
+      "email": "typicode33",
+      "phone": "999900089"
+    },
+    {
+      "id": 3,
+      "name": "json-server33",
+      "email": "typicode33",
+      "phone": "999900089"
+    }
+ 
+  
+  ]
+}
