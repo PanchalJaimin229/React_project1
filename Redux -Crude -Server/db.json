@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "jaimin",
+      "price": "2500",
+      "category": "male"
+    },
+    {
+      "id": "",
+      "name": "ridhhi",
+      "price": "600",
+      "category": "male"
+    }
+  ]
+}
