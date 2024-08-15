@@ -18,9 +18,7 @@ function Create() {
   const [email, emailChange] = useState('');
   const [isActive, setIsActive] = useState(false);
 
-  // const employedata = { id, name, email, phone, isActive }; // Include isActive here
-
-  const employedata = { id, name, email, phone, isActive };
+  const employedata = { id, name, email, phone };
 
   const go = useNavigate();
 
@@ -46,7 +44,7 @@ function Create() {
               <Typography variant="h5" component="h1" gutterBottom>
                 Add Employee
               </Typography>
-              <form onSubmit={handleClick}>           
+              <form onSubmit={handleClick}>
                 <Grid container spacing={2}>
                   <Grid item xs={12}>
                     <TextField
